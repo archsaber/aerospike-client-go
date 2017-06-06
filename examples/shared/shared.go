@@ -26,7 +26,7 @@ import (
 	"os"
 	"runtime"
 
-	as "github.com/aerospike/aerospike-client-go"
+	as "github.com/archsaber/aerospike-client-goo"
 )
 
 var WritePolicy = as.NewWritePolicy(0, 0)

@@ -20,9 +20,9 @@ import (
 	"log"
 	"strconv"
 
-	as "github.com/aerospike/aerospike-client-go"
-	shared "github.com/aerospike/aerospike-client-go/examples/shared"
-	asl "github.com/aerospike/aerospike-client-go/logger"
+	as "github.com/archsaber/aerospike-client-goo"
+	shared "github.com/archsaber/aerospike-client-goo/examples/shared"
+	asl "github.com/archsaber/aerospike-client-goo/logger"
 )
 
 func main() {

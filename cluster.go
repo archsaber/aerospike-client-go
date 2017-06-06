@@ -24,10 +24,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	. "github.com/aerospike/aerospike-client-go/logger"
+	. "github.com/archsaber/aerospike-client-goo/logger"
 
-	. "github.com/aerospike/aerospike-client-go/types"
-	. "github.com/aerospike/aerospike-client-go/types/atomic"
+	. "github.com/archsaber/aerospike-client-goo/types"
+	. "github.com/archsaber/aerospike-client-goo/types/atomic"
 )
 
 type partitionMap map[string][][]*Node

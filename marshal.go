@@ -24,7 +24,7 @@ import (
 	"sync"
 	"time"
 
-	. "github.com/aerospike/aerospike-client-go/types"
+	. "github.com/archsaber/aerospike-client-goo/types"
 )
 
 var aerospikeTag = "as"

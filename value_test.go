@@ -21,9 +21,9 @@ import (
 	. "github.com/onsi/ginkgo"
 	gm "github.com/onsi/gomega"
 
-	// . "github.com/aerospike/aerospike-client-go"
-	ParticleType "github.com/aerospike/aerospike-client-go/types/particle_type"
-	. "github.com/aerospike/aerospike-client-go/utils/buffer"
+	// . "github.com/archsaber/aerospike-client-goo"
+	ParticleType "github.com/archsaber/aerospike-client-goo/types/particle_type"
+	. "github.com/archsaber/aerospike-client-goo/utils/buffer"
 )
 
 type testBLOB struct {

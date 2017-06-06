@@ -26,10 +26,10 @@ import (
 	"sync"
 	"time"
 
-	lualib "github.com/aerospike/aerospike-client-go/internal/lua"
-	. "github.com/aerospike/aerospike-client-go/logger"
-	. "github.com/aerospike/aerospike-client-go/types"
-	xornd "github.com/aerospike/aerospike-client-go/types/rand"
+	lualib "github.com/archsaber/aerospike-client-goo/internal/lua"
+	. "github.com/archsaber/aerospike-client-goo/logger"
+	. "github.com/archsaber/aerospike-client-goo/types"
+	xornd "github.com/archsaber/aerospike-client-goo/types/rand"
 	"github.com/yuin/gopher-lua"
 )
 

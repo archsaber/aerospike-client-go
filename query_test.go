@@ -18,8 +18,8 @@ import (
 	"math"
 	"math/rand"
 
-	as "github.com/aerospike/aerospike-client-go"
-	. "github.com/aerospike/aerospike-client-go/types"
+	as "github.com/archsaber/aerospike-client-goo"
+	. "github.com/archsaber/aerospike-client-goo/types"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

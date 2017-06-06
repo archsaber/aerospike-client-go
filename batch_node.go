@@ -15,7 +15,7 @@
 package aerospike
 
 import (
-	. "github.com/aerospike/aerospike-client-go/types"
+	. "github.com/archsaber/aerospike-client-goo/types"
 )
 
 type batchNode struct {

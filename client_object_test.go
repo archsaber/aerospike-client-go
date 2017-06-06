@@ -20,8 +20,8 @@ import (
 	"math"
 	"time"
 
-	as "github.com/aerospike/aerospike-client-go"
-	// . "github.com/aerospike/aerospike-client-go/utils/buffer"
+	as "github.com/archsaber/aerospike-client-goo"
+	// . "github.com/archsaber/aerospike-client-goo/utils/buffer"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

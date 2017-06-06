@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"log"
 
-	as "github.com/aerospike/aerospike-client-go"
+	as "github.com/archsaber/aerospike-client-goo"
 )
 
 /*

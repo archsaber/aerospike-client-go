@@ -21,8 +21,8 @@ import (
 	"strconv"
 	"time"
 
-	. "github.com/aerospike/aerospike-client-go/logger"
-	. "github.com/aerospike/aerospike-client-go/types"
+	. "github.com/archsaber/aerospike-client-goo/logger"
+	. "github.com/archsaber/aerospike-client-goo/types"
 )
 
 // Connection represents a connection with a timeout.

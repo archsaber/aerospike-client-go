@@ -18,7 +18,7 @@ import (
 	"runtime"
 	"sync"
 
-	. "github.com/aerospike/aerospike-client-go/types/atomic"
+	. "github.com/archsaber/aerospike-client-goo/types/atomic"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

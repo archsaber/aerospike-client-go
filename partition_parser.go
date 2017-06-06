@@ -22,8 +22,8 @@ import (
 	"fmt"
 	"strconv"
 
-	. "github.com/aerospike/aerospike-client-go/logger"
-	. "github.com/aerospike/aerospike-client-go/types"
+	. "github.com/archsaber/aerospike-client-goo/logger"
+	. "github.com/archsaber/aerospike-client-goo/types"
 )
 
 const (

@@ -18,7 +18,7 @@ import (
 	"strconv"
 	"strings"
 
-	. "github.com/aerospike/aerospike-client-go/types"
+	. "github.com/archsaber/aerospike-client-goo/types"
 )
 
 // ExecuteTask is used to poll for long running server execute job completion.
