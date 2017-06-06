@@ -17,8 +17,8 @@ package aerospike
 import (
 	"bytes"
 
-	. "github.com/archsaber/aerospike-client-goo/types"
-	Buffer "github.com/archsaber/aerospike-client-goo/utils/buffer"
+	. "github.com/archsaber/aerospike-client-go/types"
+	Buffer "github.com/archsaber/aerospike-client-go/utils/buffer"
 )
 
 type batchCommandExists struct {

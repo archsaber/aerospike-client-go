@@ -22,11 +22,11 @@ import (
 	"math"
 	"time"
 
-	. "github.com/archsaber/aerospike-client-goo/logger"
-	. "github.com/archsaber/aerospike-client-goo/types"
+	. "github.com/archsaber/aerospike-client-go/logger"
+	. "github.com/archsaber/aerospike-client-go/types"
 
-	ParticleType "github.com/archsaber/aerospike-client-goo/types/particle_type"
-	// Buffer "github.com/archsaber/aerospike-client-goo/utils/buffer"
+	ParticleType "github.com/archsaber/aerospike-client-go/types/particle_type"
+	// Buffer "github.com/archsaber/aerospike-client-go/utils/buffer"
 )
 
 const (

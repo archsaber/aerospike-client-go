@@ -20,8 +20,8 @@ import (
 	"runtime"
 	"sync"
 
-	. "github.com/archsaber/aerospike-client-goo/types"
-	. "github.com/archsaber/aerospike-client-goo/types/atomic"
+	. "github.com/archsaber/aerospike-client-go/types"
+	. "github.com/archsaber/aerospike-client-go/types/atomic"
 )
 
 type Result struct {

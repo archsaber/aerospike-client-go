@@ -24,7 +24,7 @@ import (
 
 	_ "net/http/pprof"
 
-	. "github.com/archsaber/aerospike-client-goo"
+	. "github.com/archsaber/aerospike-client-go"
 )
 
 var host = flag.String("h", "127.0.0.1", "Aerospike server seed hostnames or IP addresses")

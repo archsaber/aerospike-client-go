@@ -19,9 +19,9 @@ import (
 	"reflect"
 	"strconv"
 
-	. "github.com/archsaber/aerospike-client-goo/types"
-	ParticleType "github.com/archsaber/aerospike-client-goo/types/particle_type"
-	Buffer "github.com/archsaber/aerospike-client-goo/utils/buffer"
+	. "github.com/archsaber/aerospike-client-go/types"
+	ParticleType "github.com/archsaber/aerospike-client-go/types/particle_type"
+	Buffer "github.com/archsaber/aerospike-client-go/utils/buffer"
 )
 
 // this function will be set in value_slow file if included

@@ -19,7 +19,7 @@ import (
 	"testing"
 	"time"
 
-	xor "github.com/archsaber/aerospike-client-goo/types/rand"
+	xor "github.com/archsaber/aerospike-client-go/types/rand"
 )
 
 func Benchmark_math_rand(b *testing.B) {

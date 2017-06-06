@@ -18,8 +18,8 @@ import (
 	"bytes"
 	"fmt"
 
-	. "github.com/archsaber/aerospike-client-goo/types"
-	Buffer "github.com/archsaber/aerospike-client-goo/utils/buffer"
+	. "github.com/archsaber/aerospike-client-go/types"
+	Buffer "github.com/archsaber/aerospike-client-go/utils/buffer"
 )
 
 // Key is the unique record identifier. Records can be identified using a specified namespace,

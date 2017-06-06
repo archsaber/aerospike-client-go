@@ -18,8 +18,8 @@ package aerospike
 // 	"strings"
 // 	"testing"
 
-// 	"github.com/archsaber/aerospike-client-goo/pkg/ripemd160"
-// 	ParticleType "github.com/archsaber/aerospike-client-goo/types/particle_type"
+// 	"github.com/archsaber/aerospike-client-go/pkg/ripemd160"
+// 	ParticleType "github.com/archsaber/aerospike-client-go/types/particle_type"
 // )
 
 // var str = strings.Repeat("abcd", 128)

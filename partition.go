@@ -17,7 +17,7 @@ package aerospike
 import (
 	"fmt"
 
-	Buffer "github.com/archsaber/aerospike-client-goo/utils/buffer"
+	Buffer "github.com/archsaber/aerospike-client-go/utils/buffer"
 )
 
 // Partition encapsulates partition information.

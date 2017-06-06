@@ -15,7 +15,7 @@
 package aerospike_test
 
 import (
-	as "github.com/archsaber/aerospike-client-goo"
+	as "github.com/archsaber/aerospike-client-go"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

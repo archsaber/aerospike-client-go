@@ -21,7 +21,7 @@ import (
 	"strings"
 	"time"
 
-	as "github.com/archsaber/aerospike-client-goo"
+	as "github.com/archsaber/aerospike-client-go"
 )
 
 var (

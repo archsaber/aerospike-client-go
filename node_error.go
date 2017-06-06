@@ -15,7 +15,7 @@
 package aerospike
 
 import (
-	. "github.com/archsaber/aerospike-client-goo/types"
+	. "github.com/archsaber/aerospike-client-go/types"
 )
 
 // NodeError is a type to encapsulate the node that the error occurred in.

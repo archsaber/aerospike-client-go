@@ -17,7 +17,7 @@ package atomic_test
 import (
 	"runtime"
 
-	. "github.com/archsaber/aerospike-client-goo/types/atomic"
+	. "github.com/archsaber/aerospike-client-go/types/atomic"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

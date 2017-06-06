@@ -15,12 +15,12 @@
 package aerospike
 
 import (
-	// . "github.com/archsaber/aerospike-client-goo/logger"
+	// . "github.com/archsaber/aerospike-client-go/logger"
 
 	"io"
 	"strconv"
 
-	. "github.com/archsaber/aerospike-client-goo/types"
+	. "github.com/archsaber/aerospike-client-go/types"
 )
 
 var aeroerr error = NewAerospikeError(PARSE_ERROR, "Error parsing peers list.")

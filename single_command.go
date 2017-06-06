@@ -17,7 +17,7 @@ package aerospike
 import (
 	"time"
 
-	Buffer "github.com/archsaber/aerospike-client-goo/utils/buffer"
+	Buffer "github.com/archsaber/aerospike-client-go/utils/buffer"
 )
 
 type singleCommand struct {

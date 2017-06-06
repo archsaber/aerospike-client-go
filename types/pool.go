@@ -15,7 +15,7 @@
 package types
 
 import (
-	. "github.com/archsaber/aerospike-client-goo/types/atomic"
+	. "github.com/archsaber/aerospike-client-go/types/atomic"
 )
 
 // Pool implements a general purpose fixed-size pool.

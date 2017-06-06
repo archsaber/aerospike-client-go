@@ -1,5 +1,5 @@
 name: aerospike-client-go
-dir: src/github.com/archsaber/aerospike-client-goo
+dir: src/github.com/archsaber/aerospike-client-go
 
 container:
   - base:
@@ -9,8 +9,8 @@ container:
 build:
   - name: build
     script:
-      - go get -v github.com/archsaber/aerospike-client-goo
-      - go build -v -x github.com/archsaber/aerospike-client-goo
-      - go install -v -x github.com/archsaber/aerospike-client-goo/tools/cli
-      - go install -v -x github.com/archsaber/aerospike-client-goo/tools/benchmark
-      - go install -v -x github.com/archsaber/aerospike-client-goo/tools/asinfo
+      - go get -v github.com/archsaber/aerospike-client-go
+      - go build -v -x github.com/archsaber/aerospike-client-go
+      - go install -v -x github.com/archsaber/aerospike-client-go/tools/cli
+      - go install -v -x github.com/archsaber/aerospike-client-go/tools/benchmark
+      - go install -v -x github.com/archsaber/aerospike-client-go/tools/asinfo

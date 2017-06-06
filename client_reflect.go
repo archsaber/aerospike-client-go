@@ -20,8 +20,8 @@ import (
 	"errors"
 	"reflect"
 
-	. "github.com/archsaber/aerospike-client-goo/types"
-	xornd "github.com/archsaber/aerospike-client-goo/types/rand"
+	. "github.com/archsaber/aerospike-client-go/types"
+	xornd "github.com/archsaber/aerospike-client-go/types/rand"
 )
 
 // PutObject writes record bin(s) to the server.

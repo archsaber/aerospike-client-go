@@ -22,9 +22,9 @@ import (
 	"strings"
 	"time"
 
-	as "github.com/archsaber/aerospike-client-goo"
-	. "github.com/archsaber/aerospike-client-goo/types"
-	. "github.com/archsaber/aerospike-client-goo/utils/buffer"
+	as "github.com/archsaber/aerospike-client-go"
+	. "github.com/archsaber/aerospike-client-go/types"
+	. "github.com/archsaber/aerospike-client-go/utils/buffer"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

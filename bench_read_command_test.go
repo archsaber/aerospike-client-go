@@ -22,7 +22,7 @@ import (
 	// "time"
 
 	_ "net/http/pprof"
-	// . "github.com/archsaber/aerospike-client-goo"
+	// . "github.com/archsaber/aerospike-client-go"
 )
 
 func doGet(set string, value interface{}, b *testing.B) {

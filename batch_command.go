@@ -19,9 +19,9 @@ import (
 	"reflect"
 	"time"
 
-	. "github.com/archsaber/aerospike-client-goo/types"
-	xrand "github.com/archsaber/aerospike-client-goo/types/rand"
-	Buffer "github.com/archsaber/aerospike-client-goo/utils/buffer"
+	. "github.com/archsaber/aerospike-client-go/types"
+	xrand "github.com/archsaber/aerospike-client-go/types/rand"
+	Buffer "github.com/archsaber/aerospike-client-go/utils/buffer"
 )
 
 const (

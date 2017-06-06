@@ -17,9 +17,9 @@ package aerospike
 import (
 	// "fmt"
 
-	// . "github.com/archsaber/aerospike-client-goo/logger"
-	. "github.com/archsaber/aerospike-client-goo/types"
-	Buffer "github.com/archsaber/aerospike-client-goo/utils/buffer"
+	// . "github.com/archsaber/aerospike-client-go/logger"
+	. "github.com/archsaber/aerospike-client-go/types"
+	Buffer "github.com/archsaber/aerospike-client-go/utils/buffer"
 )
 
 type serverCommand struct {

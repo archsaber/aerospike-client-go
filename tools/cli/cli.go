@@ -22,8 +22,8 @@ import (
 	// "time"
 	"runtime"
 
-	. "github.com/archsaber/aerospike-client-goo"
-	. "github.com/archsaber/aerospike-client-goo/logger"
+	. "github.com/archsaber/aerospike-client-go"
+	. "github.com/archsaber/aerospike-client-go/logger"
 )
 
 // flag information
